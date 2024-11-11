@@ -7,8 +7,8 @@
 Projeto básico para mostrar como a lingua ruby é bem simplificada
 
 
-Explicação do Código
-# saudacao.rb: Comentário indicando o nome do arquivo. Os arquivos Ruby geralmente têm a extensão .rb.
+## Explicação do Código
+saudacao.rb: Comentário indicando o nome do arquivo. Os arquivos Ruby geralmente têm a extensão .rb.
 
 Definição da função - def saudacao(nome):
 
